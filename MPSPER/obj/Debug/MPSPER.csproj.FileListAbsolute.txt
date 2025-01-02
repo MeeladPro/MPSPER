@@ -1,0 +1,11 @@
+C:\Users\ya26e\source\repos\MPSPER\MPSPER\obj\Debug\MPSPER.Form1.resources
+C:\Users\ya26e\source\repos\MPSPER\MPSPER\obj\Debug\MPSPER.Properties.Resources.resources
+C:\Users\ya26e\source\repos\MPSPER\MPSPER\obj\Debug\MPSPER.csproj.GenerateResource.cache
+C:\Users\ya26e\source\repos\MPSPER\MPSPER\obj\Debug\MPSPER.csproj.CoreCompileInputs.cache
+C:\Users\ya26e\source\repos\MPSPER\MPSPER\bin\Debug\MPSPER.exe.config
+C:\Users\ya26e\source\repos\MPSPER\MPSPER\bin\Debug\MPSPER.exe
+C:\Users\ya26e\source\repos\MPSPER\MPSPER\bin\Debug\MPSPER.pdb
+C:\Users\ya26e\source\repos\MPSPER\MPSPER\obj\Debug\MPSPER.exe
+C:\Users\ya26e\source\repos\MPSPER\MPSPER\obj\Debug\MPSPER.pdb
+C:\Users\ya26e\source\repos\MPSPER\MPSPER\obj\Debug\MPSPER.csproj.AssemblyReference.cache
+C:\Users\ya26e\source\repos\MPSPER\MPSPER\obj\Debug\MPSPER.Form2.resources
